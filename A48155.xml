@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48155</idno><idno type="EEBO-CITATION">99829312</idno>
+  <idno type="VID">33749</idno>
+  <idno type="EEBO-PROQUEST">2240865941</idno>
+  
+            <idno type="STC">Wing L1636</idno>
+            <idno type="STC">ESTC R217657</idno>
+            <idno type="PROQUEST">99829312</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829312e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33749)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1869:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect. Copy catalogued is trimmed at edge, affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Toleration --  Early works to 1800.</term>
+               <term type="topical_term">Religious tolerance --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:33749:1"/>
+            <head>A Letter to a Friend.</head>
+            <div type="preface">
+               <head>THE PREFACE.</head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>THE little Application that was made by some of the <hi>Dis<g ref="char:EOLhyphen"/>senters</hi> to the late King, in order to the obtaining <hi>Liberty of Conscience</hi> by Law, having raised the Clamors of some un<g ref="char:EOLhyphen"/>thinking People upon them, one of them, for the Vindication of the Party, writ the following Letter; which he intended to have publish'd to the World long since, but could never obtain Per<g ref="char:EOLhyphen"/>mission so to do, it being a little too Honest for the Times, those Clamors not being perfectly removed, he thought it might be of some Ʋse to do it now, the ill Principles and Practices of the persons here condemn'd, were never owned by the Generality of that Illustrious Church.</p>
+            </div>
+            <div type="letter_proper">
+               <head>THE LETTER.</head>
+               <p>THE Tyranny of the Protector, the weak Admini<g ref="char:EOLhyphen"/>stration of his Son, the ridiculous Managemet of the ensuing shadows of the Government; and the great obli<g ref="char:EOLhyphen"/>gations the generous Declaration of <hi>Breda</hi> Imposed on his late Majesties Honour and Conscience, having ren<g ref="char:EOLhyphen"/>dred his return acceptable to almost all Orders and Degrees of Men; there was nothing more reasonable to be ex<g ref="char:EOLhyphen"/>pected then the just Performance of that Promise, which had been the Principal occasion of so Unparallel'd a Restau<g ref="char:EOLhyphen"/>ration, and which certainly had Ensued, had not the <hi>Clergy of the Church of</hi> England interpos'd in that Affaire, and rendred it of no Effect; for the King no sooner came to the Crown, but he was prevail'd with by that number of Men, to Quit the true National Interest, and Espouse that of the Hierarchy, which was then so Despicable and Narrow, that I have extremely admired what Arguments they used to Ingage the King to their Party; however they succeeded in it, the bargain was struck, the Promises a<g ref="char:EOLhyphen"/>broad are to be forgot, the Power of the Crown is to support that of the Church. And the good Church, in Gratitude, is to use all its Endeavours to make Mankind Slaves and Vassals to the Prerogative, and, <hi>no Bishop, no King,</hi> became once more to be the wise motto of the Government. How well the <hi>Hierarchy</hi> perform'd their Part to the Court, the suceeding Management does suffi<g ref="char:EOLhyphen"/>ciently Evidence for the good Church; Immediately began to teach, that let the deportment of the Prince be what it would, the People were obliged in Conscience to pay an Intire Submission and Obedience to all his Commands; a Doctrin that is the most Pernicious and Destructive to all Humane Society, as is possible to be Introduced into the World; For this Principle has not only frequently chang'd the best of Men into the worst of Tyrants, but as often the best Constitutions into no Government, which I affirme all Tyranny to be. And this they were not only content from their <hi>Pulpits</hi> to Instil into the minds of their Auditors, but there was by that Party a Dangerous <hi>Test</hi> framed, to Swear us out of a Legal into an absolute Government. And this they were not only satisfied should be taken by the inferior Magistrates, but used all Imagi<g ref="char:EOLhyphen"/>nable Endeavours to have it Imposed by Law on the Mem<g ref="char:EOLhyphen"/>bers of both Houses of Parliament; But the Wisdom and Integrity of the <hi>Lay Nobility</hi> put a stop, (with some diffi<g ref="char:EOLhyphen"/>culty) to that laudable Design, and began to consider, that though the <hi>Hierarchy</hi> might possibly be good <hi>Divines,</hi> yet many times they were very ill <hi>Polititians,</hi> and that there might be some difference even in point of Interest betwixt them and the <hi>Clergy;</hi> a <hi>Clergyman</hi> being likely to Thrive and grow Fat in that Government, where a poor <hi>Layman</hi> appears to be a lamentable Spectacle of Mortali<g ref="char:EOLhyphen"/>ty; and that the one was actually perfer'd for several years together, only for Attempting to ruin the true Inter<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the other. And so zealous were the Dignified <hi>Cler<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> prosecuting these Designs, that the late King, who<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> great deale of Wit, and was as much a Gentlema<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Prince, frequently delighted to expose them in the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of Lords, even in trivial matters; and many times wh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> true Interest of his affaires did not absolutely req<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and which gave the Nobility occasion to make s<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> marques on that number of Men, as will not easily<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> got by Posterity. The good <hi>Church</hi> was then of op<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> That th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Papists</hi> were a small and Despicable <hi>Faction,</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to be Contemn'd then Feared; that the <hi>Fanaticks</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the only Persons Dangerous to <hi>Church and State;</hi> not to bring <hi>Popery</hi> into the Government was again<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Law of God; when I dare affirm there was no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Wise <hi>Papist</hi> in <hi>England</hi> at that time, but was sa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with the Legality, though not with the Convenie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that Act for their Interest: Parliaments were dicul'd, and called Omnipotent for the Endeavo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to attempt it; and that Excellent Laudean P<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ple of the <hi>Kings absolute Power over our Properties</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vived and asserted in their publick Assembly; a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> those Branded for <hi>Athiests, Republicans,</hi> and <hi>Rebells</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as much as in them lay, sent to the <hi>Devil</hi> that offere<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> guments to the Contrary. And the good <hi>Church</hi> w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> rived to such a Station in the <hi>Government;</hi> that the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> could have no Money from the late Long Parliamen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> less they would Consent to the passing of such Laws a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the <hi>Dissenters</hi> as the <hi>Commons</hi> then found; and any P<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that will now peruse them may find, would Infa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> prove, if Executed, the <hi>Destruction of the Protestant In<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> and by such Artifices as these, I humbly conceive,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> became not only the <hi>Instruments,</hi> but the <hi>Authors</hi> o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Misery.</hi> But as for what more Immediately concern'<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Interest of the good <hi>Church</hi> it self, the <hi>Dissenters</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> were the real <hi>Instruments</hi> of the <hi>Restauration</hi>) wer<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> only first Laugh'd at in a pretended free <hi>Conference</hi> h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the <hi>Savoy,</hi> but in the Approaching <hi>Parliament,</hi> by t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of <hi>Ʋniformity,</hi> and the several other <hi>Penal Laws</hi> tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sued, were marked out for a <hi>total Destruction,</hi> And<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to be Sober, was to be Criminal, and to be less Lewd<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <hi>Parson</hi> of the <hi>Parish,</hi> was to be a <hi>Fanatick</hi> and a <hi>Tr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> How those Laws were <hi>Executed</hi> is too well known<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> related, and too much felt by some, to be forgotten<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their too great and untimely Severity in 1662. to <hi>Dissenting Protestants,</hi> was like once more to Ingage Nation into a <hi>Civil War;</hi> and had not 24 hours Rain<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vented their Uniting in <hi>Yorkeshire,</hi> they possibly w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> have been too Numerous to have been quash'd: So<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> had the <hi>Hierarchy</hi> forgot the ill Consequences of tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>diculous</hi> as well as <hi>Inhumane Principle,</hi> of forcing Peop<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> an <hi>Ʋniformity in Matters of Religion.</hi> And this was the Reason that in 1663 the Ministers at Helme were of<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nion, <hi>That a Toleration and Indulgence was the true Inter<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> the Nation:</hi> And prevailed with the King according I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> make a <hi>Declaration</hi> to that purpose. But the <hi>Parliamen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> ing soon after to <hi>Assemble,</hi> the Interest of the good <hi>Ch<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> in the House, Immediately addrest the King to put a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to those Measures, and accordingly that Declaratio<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> never Published. But no sooner was that Intended D<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> prevented by the Courage and Industry of the Du<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Buckingham</hi> (a Gentleman whose Name can never be<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tioned by good Men, but with the Highest Venera<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> his Constant adhering to the true <hi>English</hi> Inter<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Clergy</hi> let themselves loose to the Govern<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Practices, which are the ordinary Effects<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and <hi>Revenge,</hi> and the <hi>Majesty</hi> of the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Dwindled into a Scandalous Infor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>of Peace,</hi> and a Persecuting<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:33749:2"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s of the last, to Justifie the <hi>Perjuries</hi> of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mmend the <hi>Rapines</hi> of the other, both in his <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d Private Harangues. If the Parson of the Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ngry, or had a particular Prejudiee against any <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eighbors, his worthy Instruments of the Govern<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmediately Swore him to be Present at a <hi>Conven<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough at the remotest parts of <hi>England</hi> at the same <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and if a <hi>Quaker:</hi> Cow look't as Fat and Gay as his <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bors, there was no other Civil War was like to arise, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hether the <hi>Parson,</hi> the <hi>Justice,</hi> or the <hi>Informer,</hi> was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e him. But these Practices so far Nauseated the Men of their own Party and alienated the minds of <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>issenting</hi> Interest with just Reason, from the Manage<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> on the other side, that the late King (who was Wise <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to serve himself of all Interests, without being a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to any) thought it his best Policy in 1672. to give <hi>Li<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Conscience,</hi> contrary to the advice of the good Church. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r with <hi>Holland</hi> being likely to ensue, and persons <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at Quality, and very affectionate both to the Prote<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eligion, and Civil Interest of <hi>England,</hi> join'd with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it, as the best means to preserve both the one and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er, and it had its desired Effect. Nor did they be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ey had much injured our Constitution in the doing <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> besides the great Powers the Crown is intrusted <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y the Laws in matters of meer Religion, the Injury <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> our Government does not lie so much in the King's <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>sing Power, what Noise soever the Church of <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d</hi> makes about it, as in rendering the Meeting and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of Parliaments so precarious, and at the Will and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e of the Prerogative, contrary to our ancient Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n; which Practice alone plucks up our Government <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y the very Roots: And were this only Mischief re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, and the manner of Elections a little better regu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> nd setled, there would be few things wanting to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s happy, and those that were, would fall in of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>l I dare affirm, That were our Ministers of State <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r Judges, as they ought to be, Annually accountable <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lords and Commons in Parliament, the Fear of be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>moved, or punished, would make them act so wisely, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e should have few Grievances to complain of. The <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ttempts of the Ministers of State to change our <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ment, would, by so small an Alteration, be rendred <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Impracticable and Ridiculous; and the worthy <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>men in Furrs, instead of making themselves Legisla<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ould be contented with the humble Style of being <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rpreters of our Laws.</p>
+               <p>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> beg Pardon for this short Digression: No sooner <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> late King published that Declaration in 1672, but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>od Church took the Alarm, all was at stake, the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mediately was turning Tyrant, and breaking over <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Laws. The Eggs, the Chicken, and the Darling <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Pig was in a great deal of danger. Property, Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as the Cry in Fashion, and this too by the very <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at had bought and sold us to the Government but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ore. And their Designs were brought to so near a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tion, as the Nation was, in a manner, saved but by <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> three Votes in that Long Pentionary Parliament, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing of Heroes, intirely devoted to the true Interest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> good Church; and all this for no other reason, but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e poor <hi>Dissenters</hi> had in an Interval of Parliament, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ssion to Worship God according to their Conscien<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ithout asking leave of the good Church. That <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>unity of Men were ever of opinion, that all manner <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>deration and Induigence was of Infinite preiudice to their Interest; and all Religions Established by Law h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> constantly been in all Ages of the same Sentiments, wh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> is evident Demonstration, that Persecution and Violen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> may consist as well with Fallibility as Infallibility, and that such sort of practises in the present Circumstances o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> our Affairs, appears to me infinitel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more dangerous from a Protestant, than a Popish Management. The one having a formidable Party to encourage them in it, the other an unanimous Nation, generous enough to oppose such Under<g ref="char:EOLhyphen"/>takings, and a very slender Interest to engage them in so wicked an Attempt. However, it was pleasant enough to observe the Artifices the Good Church had recourse to, to render the generous Intentions of the late King's to the Dissenting Interest useless, and of no effect. To the King (a Lover of his own Ease) they rendred themselves impertinent, troublesom, and uneasie; to the Dissenters humble, submissive, and flattering; and not only the Ho<g ref="char:EOLhyphen"/>nour of the principal Laity of that Interest, but even the Sacred <hi>Verbum Sacerdotis</hi> itself was pawn'd to 'em, that in case they would consent to the annulling that Declaration in the approaching Parliament, the Good Church would sincerely use its interest to establish Liberty of Conscience by Law, though they really, as it afterward appeared, in<g ref="char:EOLhyphen"/>tended not the least Syllable of what they pretended to. Yet they acted their part so well, That I did not much won<g ref="char:EOLhyphen"/>der that the Dissenters (a credulous People) were so ea<g ref="char:EOLhyphen"/>sily imposed on in that matter. But no sooner was that Declaration sent down Cancelled to the House of Com<g ref="char:EOLhyphen"/>mons, but the Fanaticks paid dear enough for their Credu<g ref="char:EOLhyphen"/>lity, and were severely persecuted all the remaining part of His Late Majesties Reign. And, I must ingeniously confess, I thought, in some measure, they merited it, for mistaking their true Interest, it seeming to me practicable enough at that Time, to have procur'd the Dissolution of that Long Parliament; and in a subsequent one, to have Established Universal Liberty of Conscience: Which, if obtained, the Good Church would certainly have had but little reason to have boasted either of her Numbers, or her Interest at this day. However it is the happiness of the Dissenters, that the present King has, from a Principle extremely generous and commendable, put that Interest ev'n in a time when they had not the least reason to expect it, into a state of Ease and Qui<g ref="char:EOLhyphen"/>et, after the most Barbarous usage, it was possible to receive from the Worst of Men; Its therefore hoped at least they will now wisely consider their true Interest, and stand firmly to it, and be no more deluded by a number of Men, who, when the Government has been for <hi>Liberty of Consci<g ref="char:EOLhyphen"/>ence,</hi> were always against it and ever for it, when it was Impracticable and Impossible to be obtained. It is visibly the true Interest of the Crown to come to a Generous and Speedy Settlement, both in <hi>Civil and Ecclesiastical Affaires,</hi> and as much that of the <hi>Dissenters,</hi> to joyn with them Vi<g ref="char:EOLhyphen"/>gorously in the promoting it; such an endeavour is both safe and honourable, and if the Court should not be sin<g ref="char:EOLhyphen"/>cere (as tis the highest folly to imagine the contrary,) the prejudice will redound only to themselves, the <hi>Dissen<g ref="char:EOLhyphen"/>ters</hi> having given no just occasion of offence to any Interest whatsoever; it being natural to all Societies of Men to love their own preservation, and to endeavour it by all Honest means; that God would be pleas'd to Direct them for the Best, is the Sincere Prayers of,</p>
+               <closer>
+                  <salute>SIR,</salute>
+                  <signed>Your very Humble Servant</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
